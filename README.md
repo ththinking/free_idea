@@ -9,10 +9,16 @@
 
 > IntelliJ IDEA 2019.3.1 版本非常稳定，同时也提供了更快的启动，主题和键盘映射插件也更容易安装。20 年 IDEA 的特性，大部分是完全用不到的。**这一版本，完全可以支持常规工作开发！**
 
-![avatar](https://www.geekxh.com/idea/01.png)
-
 ### 使用指南
 
 - 第一步：右上角给项目点一个 Star
 - 第二步：下载 IDEA [必须我这个版本](https://pan.baidu.com/s/1-DEj7FrExx6IxX4a9sa87Q 提取码：8f8b )
-- 第三步:
+- 第三步: 打开破解包，将下载下来的 jar 包，放置你安装 IDEA 的目录的 bin 目录里边
+- 第四步：修改 idea.exe.vmoptions 和 idea64.exe.vmoptions 文件 ( 32 位系统 改 idea32.exe.vmoptions  )
+
+添加 -javaagent:idea的安装目录\bin\idea.jar
+
+
+
+![avatar](https://www.geekxh.com/idea/01.png)
+
