@@ -11,5 +11,8 @@
 
 ![avatar](https://www.geekxh.com/idea/01.png)
 
+### 使用指南
 
-
+- 第一步：右上角给项目点一个 Star
+- 第二步：下载 IDEA [必须我这个版本](https://pan.baidu.com/s/1-DEj7FrExx6IxX4a9sa87Q 提取码：8f8b )
+- 第三步:
